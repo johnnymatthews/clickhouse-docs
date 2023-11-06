@@ -9,6 +9,7 @@ ClickHouse® is a high-performance, column-oriented SQL database management syst
 
 ## What is OLAP?
 OLAP scenarios require real-time responses on top of large datasets for complex analytical queries with the following characteristics:
+
 - Datasets can be massive - billions or trillions of rows
 - Data is organized in tables that contain many columns
 - Only a few columns are selected to answer any particular query
